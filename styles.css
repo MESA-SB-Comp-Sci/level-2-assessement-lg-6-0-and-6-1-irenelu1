@@ -24,7 +24,6 @@ html{
 
 .border1{
     padding: 20px;
-    margin:50px;
     border: 3px solid orange;
     background-color: white;
 
@@ -36,3 +35,4 @@ html{
 .foot{
     color:white;
 }
+
